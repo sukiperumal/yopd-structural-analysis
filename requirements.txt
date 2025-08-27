@@ -1,0 +1,9 @@
+numpy>=1.19.0
+pandas>=1.1.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+scipy>=1.5.0
+scikit-learn>=0.23.0
+statsmodels>=0.12.0
+nibabel>=3.2.0
+nilearn>=0.7.0
